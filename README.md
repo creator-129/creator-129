@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @creator-129
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ChenXY
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Embeded Software Development.
+- 💞️ I’m looking to collaborate on (Almost Everthing)
+- 📫 How to reach me ???
 
 <!---
 creator-129/creator-129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
